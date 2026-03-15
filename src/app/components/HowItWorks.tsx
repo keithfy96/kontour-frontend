@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import imgImage43 from "figma:asset/a0d3edf681bae95afb20057f1c96322562a7cc20.png";
-import imgImage45 from "figma:asset/427d288dcefdb1eca9477a20b5bdc5e7d508dc99.png";
-import imgImage46 from "figma:asset/50122da5c37d8fb1bd4678627976268844d68db7.png";
+import imgImage43 from "../../assets/travel-analysis-step-1.jpg";
+import imgImage45 from "../../assets/travel-analysis-step-2.jpg";
+import imgImage46 from "../../assets/travel-analysis-step-3.jpg";
 
 export function HowItWorks() {
   const [activeTab, setActiveTab] = useState<'users' | 'creators'>('users');

@@ -1,8 +1,8 @@
 import svgPaths from "./svg-4740tjuht3";
-import imgImg from "figma:asset/e07f581b6324e74a3f858c7d1da547ef31d3086a.png";
-import imgImg1 from "figma:asset/8df04d92e4565dccfe5711ffe506463ca08704ca.png";
-import imgImg2 from "figma:asset/7e2c5ceda5d40b1275ccf9709a17d82c1b166e77.png";
-import imgImg3 from "figma:asset/b3d1078d53b5e6f7160af42d07356ba9b7d6e208.png";
+import imgImg from "../assets/tokyo-shibuya.jpg";
+import imgImg1 from "../assets/kyoto-shrine.jpg";
+import imgImg2 from "../assets/paris-eiffel.jpg";
+import imgImg3 from "../assets/santorini-sunset.jpg";
 
 function ArrowLeft() {
   return (
